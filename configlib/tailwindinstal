@@ -1,3 +1,8 @@
 1. instal tailwind css
 >yarn add -D tailwindcss
 >npx tailwindcss init
+
+2. directive tailwind css in css
+@tailwind base;
+@tailwind components;
+@tailwind utilities
